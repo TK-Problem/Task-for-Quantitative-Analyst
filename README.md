@@ -34,7 +34,7 @@ Placeholder text.
     ├── README.md
     ├── results.ipynb         # main notebook file with answers to questions/tasks
     ├── data                  # folder containing required data
-    │   ├── bank.csv          # Table of contents
-    │   ├── bank-full.csv     # Frequently asked questions
-    │   └── bank-names.txt    # Miscellaneous information
+    │   ├── bank.csv          # sample bank data
+    │   ├── bank-full.csv     # all available bank data
+    │   └── bank-names.txt    # information about data
     └── requirements.txt      # list of required Python packages to run code
