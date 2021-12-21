@@ -38,3 +38,4 @@ Placeholder text.
     │   ├── bank-full.csv     # all available bank data
     │   └── bank-names.txt    # information about data
     └── requirements.txt      # list of required Python packages to run code
+    └── summary.pdf           # list of main observations from this project
